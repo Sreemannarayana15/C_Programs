@@ -1,0 +1,16 @@
+Module5/*.exe
+Module 3/*.exe
+Module 3/*.o
+Module 2/*.exe
+Module 2/*.o
+Module 2/*.txt
+Module 1/*.exe
+Module 1/*.o
+Module 1/*.docx
+Module 1/*.txt
+Module 1/*.rtf
+Module 1/*.odt
+Module 2/.vscode
+*.exe
+*.o
+*.png
