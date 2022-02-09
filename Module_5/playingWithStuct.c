@@ -15,3 +15,4 @@ int main()
     p2=p1;
     printf("%s",p2.name);
 }
+// https://github.com/Sreemannarayana15/C_Programs.git
