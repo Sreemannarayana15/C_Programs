@@ -22,6 +22,5 @@ int main()
     int num;
     printf("Enter a number : ");
     scanf("%d", &num);
-    int res = mid(num);
-    // printf("Mid = %d",res);
+    mid(num);
 }
