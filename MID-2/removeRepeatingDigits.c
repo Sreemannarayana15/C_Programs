@@ -6,5 +6,6 @@ int rem(int a)
     {
         k=a%10;
         arr[i]=k;
+        a/=10;
     }
 }
