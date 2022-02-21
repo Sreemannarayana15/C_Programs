@@ -3,7 +3,7 @@
 int main()
 {
     FILE *f;    // file pointer
-    f = fopen("C:/Users/LENOVO/Desktop/Computer Science/sample.txt", "w");  // opening file for opening
+    f = fopen("C:/Users/LENOVO/Desktop/Computer Science/sample.txt", "w");  // opening file for writing
     char name[30], gender[6];
     int phone, age;
     printf("Enter name : ");
