@@ -14,5 +14,6 @@ Module 2/.vscode
 *.exe
 *.o
 *.png
-MID-2/*.exe
 .vscode
+MID-2/*.exe
+Module_5/*.bin
